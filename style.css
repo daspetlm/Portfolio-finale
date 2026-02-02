@@ -291,3 +291,10 @@ h1{
   .grid-2{grid-template-columns: 1fr}
   .nav{gap:8px}
 }
+/* Photo de profil */
+.photo-profil {
+  width: 180px;
+  height: auto;
+  border-radius: 8px;
+  margin: 20px 0;
+}
